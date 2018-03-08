@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I' am the business analyst at data science projects.
 
 ### More Information
 
