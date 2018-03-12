@@ -1,14 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Understanding the Business Needs
 ---
 
-It was the windy day of September. I have only graduated for 3 months. 
+In the beginning of workday, My manager calls me for explaning the new project which will be assigned on me. All you know, conversation can be nervous with manager and it continues with inner-speakings. However; there is a suprise for me. This new assignment is related to understand business needs and problems. My manager realized at the last conference this issue and decide to create a project for this. My manager was citing "we need to focus on business with all aspects, even the perspective they don't have" from conference.
 
 
-
- _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I was totally independent at this project; however there is only advice from my colleagues for starting point. 
